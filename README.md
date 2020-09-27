@@ -1,2 +1,2 @@
 # PHP-Training
-Freshers Program
+Freshers (PHP) - Training Program V1.3
